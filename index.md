@@ -1,1 +1,2 @@
-欢迎来到我的网络博客，xnotesnet.github.io.
+<<欢迎来到我的网络博客，iblog.gethub.io>>
+END
