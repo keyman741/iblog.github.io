@@ -6,4 +6,4 @@
 其五，……。   
 其六，……。    
 其他，具体参见yttl里面文件目录即可。  
-update commit。
+updateinfo。
